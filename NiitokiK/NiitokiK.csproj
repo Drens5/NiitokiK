@@ -13,4 +13,10 @@
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="MiyashitaT">
+      <HintPath>..\assemblies\MiyashitaT.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
